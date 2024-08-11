@@ -21,6 +21,7 @@ public class RevString {
 	 */
 	public static void revStringWithCharAt( String str ) {
 
+		
 		String emptyStr = "";
 
 		for( int loop = str.length() - 1 ; loop >= 0 ; loop-- ) {
